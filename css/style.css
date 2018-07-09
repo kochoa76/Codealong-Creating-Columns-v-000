@@ -124,6 +124,15 @@ img, video, audio {
 
 /*/////SECTIONS////*/
 
+header {
+  position:fixed; 
+  top: 0px; 
+  left: 0px; 
+  width: 100%; 
+  background: white; 
+  z-index: 1; 
+}
+
 section {
   padding: 20px;
   margin-bottom: 20px;
